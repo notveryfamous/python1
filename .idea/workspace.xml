@@ -17,7 +17,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce96ca19-98c0-4b1f-9b87-301d95d77a60" name="默认更改列表" comment="2020.8.13">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if--else语句.py" beforeDir="false" afterPath="$PROJECT_DIR$/if--else语句.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +42,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/变量.py" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.if--else语句">
     <configuration name="Pytho 3.8" type="PythonConfigurationType" factoryName="Python" singleton="false">
       <module name="python-project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,6 +68,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="if--else语句" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if--else语句.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.if--else语句" />
+        <item itemvalue="Python.random" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -89,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597291762049</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2020.8.18">
+      <created>1597724789871</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597724789871</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,7 +155,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -108,7 +178,8 @@
     <MESSAGE value="默认更改列表" />
     <MESSAGE value="2020.8.12" />
     <MESSAGE value="2020.8.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.8.13" />
+    <MESSAGE value="2020.8.18" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.8.18" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -120,6 +191,10 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="414" y="172" width="1092" height="789" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1597119472813" />
+    <state x="690" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597731772085">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="690" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1597731772085" />
     <state x="740" y="284" key="FileChooserDialogImpl" timestamp="1597206052650">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
@@ -128,22 +203,38 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="802" y="417" key="Github.CreateGistDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1597215062816" />
-    <state width="949" height="276" key="GridCell.Tab.0.bottom" timestamp="1597215344469">
+    <state width="949" height="276" key="GridCell.Tab.0.bottom" timestamp="1597731936703">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1597215344469" />
-    <state width="949" height="276" key="GridCell.Tab.0.center" timestamp="1597215344469">
+    <state width="949" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1597731936703" />
+    <state width="949" height="276" key="GridCell.Tab.0.center" timestamp="1597731936703">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="276" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1597215344469" />
-    <state width="949" height="276" key="GridCell.Tab.0.left" timestamp="1597215344469">
+    <state width="949" height="276" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1597731936703" />
+    <state width="949" height="276" key="GridCell.Tab.0.left" timestamp="1597731936703">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="276" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1597215344469" />
-    <state width="949" height="276" key="GridCell.Tab.0.right" timestamp="1597215344469">
+    <state width="949" height="276" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1597731936703" />
+    <state width="949" height="276" key="GridCell.Tab.0.right" timestamp="1597731936703">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="276" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1597215344469" />
+    <state width="949" height="276" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1597731936703" />
+    <state width="949" height="340" key="GridCell.Tab.1.bottom" timestamp="1597731704175">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="949" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1597731704175" />
+    <state width="949" height="340" key="GridCell.Tab.1.center" timestamp="1597731704175">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="949" height="340" key="GridCell.Tab.1.center/0.0.1920.1036@0.0.1920.1036" timestamp="1597731704175" />
+    <state width="949" height="340" key="GridCell.Tab.1.left" timestamp="1597731704175">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="949" height="340" key="GridCell.Tab.1.left/0.0.1920.1036@0.0.1920.1036" timestamp="1597731704175" />
+    <state width="949" height="340" key="GridCell.Tab.1.right" timestamp="1597731704175">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="949" height="340" key="GridCell.Tab.1.right/0.0.1920.1036@0.0.1920.1036" timestamp="1597731704175" />
     <state x="184" y="85" key="MergeDialog" timestamp="1597207255754">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
@@ -152,14 +243,14 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="594" y="277" key="MultipleFileMergeDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1597207263915" />
-    <state x="461" y="149" key="SettingsEditor" timestamp="1597206011334">
+    <state x="431" y="213" key="SettingsEditor" timestamp="1597728384182">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="461" y="149" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1597206011334" />
-    <state x="552" y="250" key="Vcs.Push.Dialog.v2" timestamp="1597207467772">
+    <state x="431" y="213" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1597728384182" />
+    <state x="453" y="305" key="Vcs.Push.Dialog.v2" timestamp="1597724805444">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="552" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1036@0.0.1920.1036" timestamp="1597207467772" />
+    <state x="453" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1036@0.0.1920.1036" timestamp="1597724805444" />
     <state x="773" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597207290782">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
@@ -168,9 +259,9 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="721" y="390" width="618" height="285" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1597119635330" />
-    <state x="623" y="224" width="672" height="678" key="search.everywhere.popup" timestamp="1597210907792">
+    <state x="623" y="224" width="672" height="678" key="search.everywhere.popup" timestamp="1597731098759">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="623" y="224" width="672" height="678" key="search.everywhere.popup/0.0.1920.1036@0.0.1920.1036" timestamp="1597210907792" />
+    <state x="623" y="224" width="672" height="678" key="search.everywhere.popup/0.0.1920.1036@0.0.1920.1036" timestamp="1597731098759" />
   </component>
 </project>
