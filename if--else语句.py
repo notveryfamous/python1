@@ -1,3 +1,5 @@
+import random
+
 # 1.简单if判断
 money = 66
 if money > 100:
@@ -7,8 +9,6 @@ else:
     print('还是骑我的破自行车吧')
 
 # 2.elif多条件判断
-import random
-
 a = random.randint(0, 150)
 money = a
 if money >= 100:
