@@ -17,6 +17,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce96ca19-98c0-4b1f-9b87-301d95d77a60" name="默认更改列表" comment="2020.8.13">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/rebase___.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在rebase之前未提交更改_[默认更改列表]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/if--else语句.py" beforeDir="false" afterPath="$PROJECT_DIR$/if--else语句.py" afterDir="false" />
     </list>
@@ -35,6 +38,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fw9VPirb5mBSxpXWxnWcvtVZCo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -153,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597732313955</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2020.8.18&#10;代码更新2">
+      <created>1597739379168</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597739379168</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,12 +192,15 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <option name="LIMIT_HISTORY" value="false" />
     <MESSAGE value="默认更改列表" />
     <MESSAGE value="2020.8.12" />
     <MESSAGE value="2020.8.13" />
     <MESSAGE value="2020.8.18" />
     <MESSAGE value="2020.8.18&#10;更新代码1" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.8.18&#10;更新代码1" />
+    <MESSAGE value="2020.8.18&#10;代码更新2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.8.18&#10;代码更新2" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -218,22 +232,22 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="802" y="417" key="Github.CreateGistDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1597215062816" />
-    <state width="949" height="340" key="GridCell.Tab.0.bottom" timestamp="1597737851152">
+    <state width="949" height="275" key="GridCell.Tab.0.bottom" timestamp="1597821063127">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="340" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1597737851152" />
-    <state width="949" height="340" key="GridCell.Tab.0.center" timestamp="1597737851152">
+    <state width="949" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1597821063127" />
+    <state width="949" height="275" key="GridCell.Tab.0.center" timestamp="1597821063127">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="340" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1597737851152" />
-    <state width="949" height="340" key="GridCell.Tab.0.left" timestamp="1597737851152">
+    <state width="949" height="275" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1597821063127" />
+    <state width="949" height="275" key="GridCell.Tab.0.left" timestamp="1597821063126">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="340" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1597737851152" />
-    <state width="949" height="340" key="GridCell.Tab.0.right" timestamp="1597737851152">
+    <state width="949" height="275" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1597821063126" />
+    <state width="949" height="275" key="GridCell.Tab.0.right" timestamp="1597821063127">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="340" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1597737851152" />
+    <state width="949" height="275" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1597821063127" />
     <state width="949" height="340" key="GridCell.Tab.1.bottom" timestamp="1597737851153">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
@@ -258,14 +272,14 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="594" y="277" key="MultipleFileMergeDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1597207263915" />
-    <state x="431" y="213" key="SettingsEditor" timestamp="1597739214672">
+    <state x="431" y="213" key="SettingsEditor" timestamp="1597820583360">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="431" y="213" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1597739214672" />
-    <state x="453" y="305" key="Vcs.Push.Dialog.v2" timestamp="1597732329708">
+    <state x="431" y="213" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1597820583360" />
+    <state x="453" y="305" key="Vcs.Push.Dialog.v2" timestamp="1597739386118">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="453" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1036@0.0.1920.1036" timestamp="1597732329708" />
+    <state x="453" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1036@0.0.1920.1036" timestamp="1597739386118" />
     <state x="773" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597207290782">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
