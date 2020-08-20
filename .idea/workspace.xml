@@ -6,27 +6,42 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce96ca19-98c0-4b1f-9b87-301d95d77a60" name="默认更改列表" comment="2020.8.13">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/rebase___.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/在rebase之前未提交更改_[默认更改列表]/shelved.patch" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/案例1_快递价格计算器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/案例2_个税计算器.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if--else语句.py" beforeDir="false" afterPath="$PROJECT_DIR$/if--else语句.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -38,7 +53,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fw9VPirb5mBSxpXWxnWcvtVZCo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,9 +64,51 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/变量.py" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
   </component>
-  <component name="RunManager" selected="Python.if--else语句">
+  <component name="RunManager" selected="Python.案例2_个税计算器">
+    <configuration name="案例1_快递价格计算器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/案例1_快递价格计算器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="案例2_个税计算器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/案例2_个税计算器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Pytho 3.8" type="PythonConfigurationType" factoryName="Python" singleton="false">
       <module name="python-project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,12 +174,17 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.案例2_个税计算器" />
+        <item itemvalue="Python.案例1_快递价格计算器" />
         <item itemvalue="Python.if--else语句" />
         <item itemvalue="Python.random" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ce96ca19-98c0-4b1f-9b87-301d95d77a60" name="默认更改列表" comment="" />
@@ -164,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597739379168</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2020.8.19&#10;代码更新1">
+      <created>1597828502608</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597828502608</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,7 +249,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -200,7 +271,8 @@
     <MESSAGE value="2020.8.18" />
     <MESSAGE value="2020.8.18&#10;更新代码1" />
     <MESSAGE value="2020.8.18&#10;代码更新2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.8.18&#10;代码更新2" />
+    <MESSAGE value="2020.8.19&#10;代码更新1" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.8.19&#10;代码更新1" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -224,30 +296,30 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="92" y="92" width="1736" height="852" key="DiffContextDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1597736440838" />
-    <state x="740" y="284" key="FileChooserDialogImpl" timestamp="1597206052650">
+    <state x="740" y="284" key="FileChooserDialogImpl" timestamp="1597832766651">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="740" y="284" key="FileChooserDialogImpl/0.0.1920.1036@0.0.1920.1036" timestamp="1597206052650" />
+    <state x="740" y="284" key="FileChooserDialogImpl/0.0.1920.1036@0.0.1920.1036" timestamp="1597832766651" />
     <state x="802" y="417" key="Github.CreateGistDialog" timestamp="1597215062816">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="802" y="417" key="Github.CreateGistDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1597215062816" />
-    <state width="949" height="275" key="GridCell.Tab.0.bottom" timestamp="1597821063127">
+    <state width="949" height="275" key="GridCell.Tab.0.bottom" timestamp="1597900690811">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1597821063127" />
-    <state width="949" height="275" key="GridCell.Tab.0.center" timestamp="1597821063127">
+    <state width="949" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1597900690811" />
+    <state width="949" height="275" key="GridCell.Tab.0.center" timestamp="1597900690811">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="275" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1597821063127" />
-    <state width="949" height="275" key="GridCell.Tab.0.left" timestamp="1597821063126">
+    <state width="949" height="275" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1597900690811" />
+    <state width="949" height="275" key="GridCell.Tab.0.left" timestamp="1597900690811">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="275" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1597821063126" />
-    <state width="949" height="275" key="GridCell.Tab.0.right" timestamp="1597821063127">
+    <state width="949" height="275" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1597900690811" />
+    <state width="949" height="275" key="GridCell.Tab.0.right" timestamp="1597900690811">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="275" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1597821063127" />
+    <state width="949" height="275" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1597900690811" />
     <state width="949" height="340" key="GridCell.Tab.1.bottom" timestamp="1597737851153">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
@@ -272,14 +344,14 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="594" y="277" key="MultipleFileMergeDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1597207263915" />
-    <state x="431" y="213" key="SettingsEditor" timestamp="1597820583360">
+    <state x="73" y="112" key="SettingsEditor" timestamp="1597900416397">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="431" y="213" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1597820583360" />
-    <state x="453" y="305" key="Vcs.Push.Dialog.v2" timestamp="1597739386118">
+    <state x="73" y="112" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1597900416397" />
+    <state x="453" y="305" key="Vcs.Push.Dialog.v2" timestamp="1597828533403">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="453" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1036@0.0.1920.1036" timestamp="1597739386118" />
+    <state x="453" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1036@0.0.1920.1036" timestamp="1597828533403" />
     <state x="773" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597207290782">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
