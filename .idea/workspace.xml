@@ -27,8 +27,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce96ca19-98c0-4b1f-9b87-301d95d77a60" name="默认更改列表" comment="2020.8.13">
-      <change afterPath="$PROJECT_DIR$/while循环.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/continue和break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/无限循环.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/案例4_银行存款.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例1_快递价格计算器.py" beforeDir="false" afterPath="$PROJECT_DIR$/案例1_快递价格计算器.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,30 +67,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/变量.py" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.while循环">
-    <configuration name="循环" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-project1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/循环.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="master" />
+    </force-push-targets>
+  </component>
+  <component name="RunManager" selected="Python.案例4_银行存款">
     <configuration name="案例1_快递价格计算器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="案例2_个税计算器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="无限循环" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/案例2_个税计算器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/无限循环.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="案例3_求和与最大值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="冰雹猜想" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +129,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/案例3_求和与最大值.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/冰雹猜想.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="案例4_银行存款" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/案例4_银行存款.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.while循环" />
-        <item itemvalue="Python.案例3_求和与最大值" />
-        <item itemvalue="Python.循环" />
-        <item itemvalue="Python.案例2_个税计算器" />
+        <item itemvalue="Python.案例4_银行存款" />
         <item itemvalue="Python.案例1_快递价格计算器" />
+        <item itemvalue="Python.无限循环" />
+        <item itemvalue="Python.冰雹猜想" />
+        <item itemvalue="Python.while循环" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597992458241</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2020.8.24&#10;while循环.py提交">
+      <created>1598249102979</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598249102979</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,7 +326,8 @@
     <MESSAGE value="2020.8.19&#10;代码更新1" />
     <MESSAGE value="2020.08.20&#10;案例1、案例2提交" />
     <MESSAGE value="2020.08.21&#10;案例3、for循环提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.08.21&#10;案例3、for循环提交" />
+    <MESSAGE value="2020.8.24&#10;while循环.py提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.8.24&#10;while循环.py提交" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -343,38 +359,38 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="802" y="417" key="Github.CreateGistDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1597215062816" />
-    <state width="949" height="275" key="GridCell.Tab.0.bottom" timestamp="1598248669098">
+    <state width="949" height="275" key="GridCell.Tab.0.bottom" timestamp="1598340205056">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1598248669098" />
-    <state width="949" height="275" key="GridCell.Tab.0.center" timestamp="1598248669098">
+    <state width="949" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1598340205056" />
+    <state width="949" height="275" key="GridCell.Tab.0.center" timestamp="1598340205056">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="275" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1598248669098" />
-    <state width="949" height="275" key="GridCell.Tab.0.left" timestamp="1598248669098">
+    <state width="949" height="275" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1598340205056" />
+    <state width="949" height="275" key="GridCell.Tab.0.left" timestamp="1598340205056">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="275" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1598248669098" />
-    <state width="949" height="275" key="GridCell.Tab.0.right" timestamp="1598248669098">
+    <state width="949" height="275" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1598340205056" />
+    <state width="949" height="275" key="GridCell.Tab.0.right" timestamp="1598340205056">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="275" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1598248669098" />
-    <state width="949" height="340" key="GridCell.Tab.1.bottom" timestamp="1598248254571">
+    <state width="949" height="275" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1598340205056" />
+    <state width="949" height="340" key="GridCell.Tab.1.bottom" timestamp="1598249306301">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1598248254571" />
-    <state width="949" height="340" key="GridCell.Tab.1.center" timestamp="1598248254571">
+    <state width="949" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1598249306301" />
+    <state width="949" height="340" key="GridCell.Tab.1.center" timestamp="1598249306301">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="340" key="GridCell.Tab.1.center/0.0.1920.1036@0.0.1920.1036" timestamp="1598248254571" />
-    <state width="949" height="340" key="GridCell.Tab.1.left" timestamp="1598248254571">
+    <state width="949" height="340" key="GridCell.Tab.1.center/0.0.1920.1036@0.0.1920.1036" timestamp="1598249306301" />
+    <state width="949" height="340" key="GridCell.Tab.1.left" timestamp="1598249306301">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="340" key="GridCell.Tab.1.left/0.0.1920.1036@0.0.1920.1036" timestamp="1598248254571" />
-    <state width="949" height="340" key="GridCell.Tab.1.right" timestamp="1598248254571">
+    <state width="949" height="340" key="GridCell.Tab.1.left/0.0.1920.1036@0.0.1920.1036" timestamp="1598249306301" />
+    <state width="949" height="340" key="GridCell.Tab.1.right" timestamp="1598249306301">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="340" key="GridCell.Tab.1.right/0.0.1920.1036@0.0.1920.1036" timestamp="1598248254571" />
+    <state width="949" height="340" key="GridCell.Tab.1.right/0.0.1920.1036@0.0.1920.1036" timestamp="1598249306301" />
     <state x="184" y="85" key="MergeDialog" timestamp="1597207255754">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
@@ -383,14 +399,14 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="594" y="277" key="MultipleFileMergeDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1597207263915" />
-    <state x="73" y="112" key="SettingsEditor" timestamp="1598246651069">
+    <state x="73" y="112" key="SettingsEditor" timestamp="1598249303946">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="73" y="112" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1598246651069" />
-    <state x="453" y="305" key="Vcs.Push.Dialog.v2" timestamp="1597992467598">
+    <state x="73" y="112" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1598249303946" />
+    <state x="453" y="305" key="Vcs.Push.Dialog.v2" timestamp="1598249130552">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="453" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1036@0.0.1920.1036" timestamp="1597992467598" />
+    <state x="453" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1036@0.0.1920.1036" timestamp="1598249130552" />
     <state x="773" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597207290782">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
