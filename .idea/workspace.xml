@@ -27,9 +27,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce96ca19-98c0-4b1f-9b87-301d95d77a60" name="默认更改列表" comment="2020.8.13">
-      <change afterPath="$PROJECT_DIR$/函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/函数的参数传递.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内建函数.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数的参数传递.py" beforeDir="false" afterPath="$PROJECT_DIR$/函数的参数传递.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,7 @@
       <force-push-target remote-path="origin" branch="master" />
     </force-push-targets>
   </component>
-  <component name="RunManager" selected="Python.函数的参数传递">
+  <component name="RunManager" selected="Python.内建函数">
     <configuration name="无限循环" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,27 +115,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-project1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="函数的参数传递" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,6 +128,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数的参数传递.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="内建函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内建函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,6 +199,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="函数的参数传递" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数的参数传递.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="冰雹猜想" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,8 +264,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.内建函数" />
         <item itemvalue="Python.函数的参数传递" />
-        <item itemvalue="Python.函数" />
         <item itemvalue="Python.案例4_银行存款" />
         <item itemvalue="Python.案例1_快递价格计算器" />
         <item itemvalue="Python.无限循环" />
@@ -312,7 +354,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598340681197</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2020.8.26&#10;函数.py，函数的参数传递.py 提交">
+      <created>1598422741301</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1598422741301</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -354,7 +403,8 @@
     <MESSAGE value="2020.08.21&#10;案例3、for循环提交" />
     <MESSAGE value="2020.8.24&#10;while循环.py提交" />
     <MESSAGE value="2020.8.25&#10;continue和break.py,无限循环.py,案例4_银行存款.py 提交&#10;案例1_快递价格计算器.py 修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.8.25&#10;continue和break.py,无限循环.py,案例4_银行存款.py 提交&#10;案例1_快递价格计算器.py 修改" />
+    <MESSAGE value="2020.8.26&#10;函数.py，函数的参数传递.py 提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.8.26&#10;函数.py，函数的参数传递.py 提交" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -386,22 +436,22 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="802" y="417" key="Github.CreateGistDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1597215062816" />
-    <state width="949" height="275" key="GridCell.Tab.0.bottom" timestamp="1598422297059">
+    <state width="949" height="275" key="GridCell.Tab.0.bottom" timestamp="1598584953470">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1598422297059" />
-    <state width="949" height="275" key="GridCell.Tab.0.center" timestamp="1598422297058">
+    <state width="949" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1598584953470" />
+    <state width="949" height="275" key="GridCell.Tab.0.center" timestamp="1598584953469">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="275" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1598422297058" />
-    <state width="949" height="275" key="GridCell.Tab.0.left" timestamp="1598422297058">
+    <state width="949" height="275" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1598584953469" />
+    <state width="949" height="275" key="GridCell.Tab.0.left" timestamp="1598584953469">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="275" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1598422297058" />
-    <state width="949" height="275" key="GridCell.Tab.0.right" timestamp="1598422297058">
+    <state width="949" height="275" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1598584953469" />
+    <state width="949" height="275" key="GridCell.Tab.0.right" timestamp="1598584953470">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="275" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1598422297058" />
+    <state width="949" height="275" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1598584953470" />
     <state width="949" height="340" key="GridCell.Tab.1.bottom" timestamp="1598249306301">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
@@ -430,10 +480,10 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="73" y="112" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1598249303946" />
-    <state x="453" y="305" key="Vcs.Push.Dialog.v2" timestamp="1598340687564">
+    <state x="453" y="305" key="Vcs.Push.Dialog.v2" timestamp="1598422748513">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="453" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1036@0.0.1920.1036" timestamp="1598340687564" />
+    <state x="453" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1036@0.0.1920.1036" timestamp="1598422748513" />
     <state x="773" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597207290782">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
