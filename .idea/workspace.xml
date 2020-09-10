@@ -27,11 +27,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce96ca19-98c0-4b1f-9b87-301d95d77a60" name="默认更改列表" comment="2020.8.13">
-      <change afterPath="$PROJECT_DIR$/嵌套打印三角形.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/嵌套打印矩形.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/打印九九乘法表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第三方模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0到100的偶数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0到100的奇数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/差是不是奇数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/年龄判断.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/考试打分.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,14 +68,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/变量.py" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="Push.Settings">
     <force-push-targets>
       <force-push-target remote-path="origin" branch="master" />
     </force-push-targets>
   </component>
-  <component name="RunManager" selected="Python.打印九九乘法表">
+  <component name="RunManager" selected="Python.0到100的偶数">
     <configuration name="打印九九乘法表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,6 +97,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="0到100的奇数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0到100的奇数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0到100的偶数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0到100的偶数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="案例1_快递价格计算器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,48 +152,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/案例1_快递价格计算器.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="打印乘法表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-project1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/打印乘法表.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="嵌套打印三角形" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-project1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/嵌套打印三角形.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,6 +194,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/变量.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="打印乘法表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/打印乘法表.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="嵌套打印三角形" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/嵌套打印三角形.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,9 +372,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0到100的偶数" />
+        <item itemvalue="Python.0到100的奇数" />
         <item itemvalue="Python.打印九九乘法表" />
-        <item itemvalue="Python.嵌套打印三角形" />
-        <item itemvalue="Python.打印乘法表" />
         <item itemvalue="Python.案例4_银行存款" />
         <item itemvalue="Python.案例1_快递价格计算器" />
       </list>
@@ -434,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598586655812</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2020.9.6&#10;练习提交">
+      <created>1599379079783</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1599379079783</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -478,7 +527,8 @@
     <MESSAGE value="2020.8.25&#10;continue和break.py,无限循环.py,案例4_银行存款.py 提交&#10;案例1_快递价格计算器.py 修改" />
     <MESSAGE value="2020.8.26&#10;函数.py，函数的参数传递.py 提交" />
     <MESSAGE value="2020.8.28&#10;内建参数.py提交&#10;函数的参数传递.py更改" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.8.28&#10;内建参数.py提交&#10;函数的参数传递.py更改" />
+    <MESSAGE value="2020.9.6&#10;练习提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.9.6&#10;练习提交" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -510,38 +560,38 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="802" y="417" key="Github.CreateGistDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1597215062816" />
-    <state width="1010" height="274" key="GridCell.Tab.0.bottom" timestamp="1599378056866">
+    <state width="1009" height="274" key="GridCell.Tab.0.bottom" timestamp="1599742634673">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="1010" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1599378056866" />
-    <state width="1010" height="274" key="GridCell.Tab.0.center" timestamp="1599378056866">
+    <state width="1009" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1599742634673" />
+    <state width="1009" height="274" key="GridCell.Tab.0.center" timestamp="1599742634673">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="1010" height="274" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1599378056866" />
-    <state width="1010" height="274" key="GridCell.Tab.0.left" timestamp="1599378056866">
+    <state width="1009" height="274" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1599742634673" />
+    <state width="1009" height="274" key="GridCell.Tab.0.left" timestamp="1599742634673">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="1010" height="274" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1599378056866" />
-    <state width="1010" height="274" key="GridCell.Tab.0.right" timestamp="1599378056866">
+    <state width="1009" height="274" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1599742634673" />
+    <state width="1009" height="274" key="GridCell.Tab.0.right" timestamp="1599742634673">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="1010" height="274" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1599378056866" />
-    <state width="949" height="339" key="GridCell.Tab.1.bottom" timestamp="1599377783215">
+    <state width="1009" height="274" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1599742634673" />
+    <state width="949" height="339" key="GridCell.Tab.1.bottom" timestamp="1599383741160">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1599377783215" />
-    <state width="949" height="339" key="GridCell.Tab.1.center" timestamp="1599377783215">
+    <state width="949" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1599383741160" />
+    <state width="949" height="339" key="GridCell.Tab.1.center" timestamp="1599383741160">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="339" key="GridCell.Tab.1.center/0.0.1920.1036@0.0.1920.1036" timestamp="1599377783215" />
-    <state width="949" height="339" key="GridCell.Tab.1.left" timestamp="1599377783215">
+    <state width="949" height="339" key="GridCell.Tab.1.center/0.0.1920.1036@0.0.1920.1036" timestamp="1599383741160" />
+    <state width="949" height="339" key="GridCell.Tab.1.left" timestamp="1599383741160">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="339" key="GridCell.Tab.1.left/0.0.1920.1036@0.0.1920.1036" timestamp="1599377783215" />
-    <state width="949" height="339" key="GridCell.Tab.1.right" timestamp="1599377783215">
+    <state width="949" height="339" key="GridCell.Tab.1.left/0.0.1920.1036@0.0.1920.1036" timestamp="1599383741160" />
+    <state width="949" height="339" key="GridCell.Tab.1.right" timestamp="1599383741160">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state width="949" height="339" key="GridCell.Tab.1.right/0.0.1920.1036@0.0.1920.1036" timestamp="1599377783215" />
+    <state width="949" height="339" key="GridCell.Tab.1.right/0.0.1920.1036@0.0.1920.1036" timestamp="1599383741160" />
     <state x="184" y="85" key="MergeDialog" timestamp="1597207255754">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
@@ -550,14 +600,14 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="594" y="277" key="MultipleFileMergeDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1597207263915" />
-    <state x="271" y="108" key="SettingsEditor" timestamp="1599376648623">
+    <state x="271" y="108" key="SettingsEditor" timestamp="1599742747564">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="271" y="108" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1599376648623" />
-    <state x="453" y="305" key="Vcs.Push.Dialog.v2" timestamp="1598586660600">
+    <state x="271" y="108" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1599742747564" />
+    <state x="453" y="305" key="Vcs.Push.Dialog.v2" timestamp="1599379085549">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="453" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1036@0.0.1920.1036" timestamp="1598586660600" />
+    <state x="453" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1036@0.0.1920.1036" timestamp="1599379085549" />
     <state x="773" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597207290782">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
