@@ -7,7 +7,6 @@ nums = [6, 5, 3, 1, 8, 7, 2, 4]
 # 每一次比较次数的优化
 # 总比较次数的优化
 
-'''
 i = 0
 while i < len(nums) - 1:
     i += 1
@@ -19,6 +18,4 @@ while i < len(nums) - 1:
             nums[n], nums[n + 1] = nums[n + 1], nums[n]
         n += 1
     print(nums)
-'''
-nums.sort()
-print(nums)
+
